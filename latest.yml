@@ -1,8 +1,8 @@
 version: 1.0.5
 files:
-  - url: https://github.com/1061139531/fensanxin-updates/releases/download/v1.0.5/fensanxin-1.0.5.exe
-    sha512: h1k0C2zw4RQz6ucvSHf5nJDg2B8rKzTSNfKFJyHTNYm6sgyBN4m6P2Cu4zN9UBwAfv1VKtYzSa00cioPL1JENg==
-    size: 78707884
-path: fensanxin-1.0.5.exe
-sha512: h1k0C2zw4RQz6ucvSHf5nJDg2B8rKzTSNfKFJyHTNYm6sgyBN4m6P2Cu4zN9UBwAfv1VKtYzSa00cioPL1JENg==
-releaseDate: '2026-10-18T12:44:33.768Z'
+  - url: 分散信-安装包-1.0.5.exe
+    sha512: gBrFGuNHUBWQhxSy/Rnl31qGVUXVQ+/Wx/FqnmvunZhfL/H+duNlN65nFU36Vxd+qdFnFlRNAd+rVu5YH5pdNw==
+    size: 71726025
+path: 分散信-安装包-1.0.5.exe
+sha512: gBrFGuNHUBWQhxSy/Rnl31qGVUXVQ+/Wx/FqnmvunZhfL/H+duNlN65nFU36Vxd+qdFnFlRNAd+rVu5YH5pdNw==
+releaseDate: '2026-10-18T14:02:17.000Z'
